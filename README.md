@@ -72,15 +72,8 @@ Created by: Meghna N
 
 
 
-How to upload this to GitHub
-1. Open your GitHub repository.
-2. Click Add file → Create new file.
-3. Name the file README.md.
-4. Copy and paste the README above.
-5. Click Commit changes.
-One important suggestion: Upload your Jupyter Notebook (.ipynb) and dataset (.xlsx) into the same repository so recruiters can see your actual project and code.
 
-Your README will appear on the main page of your GitHub repository.
+
 
 
 
